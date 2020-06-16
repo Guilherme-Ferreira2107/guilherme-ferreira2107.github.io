@@ -25,5 +25,5 @@ Desenvolvido com:
 
 ```
 
-Para mais informações: [Guilherme Ferreira](https://www.linkedin.com/in/guifsantos/)
+Para mais informações: Guilherme Ferreira https://www.linkedin.com/in/guifsantos/
 ```
